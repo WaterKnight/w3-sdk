@@ -1,0 +1,5 @@
+RECORD_PART=1
+SEP=2
+NEW_LINE=3
+WS=4
+';'=2

@@ -1,0 +1,118 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P#,##0\ "$";;\-#,##0\ "$"
+P;P#,##0\ "$";;[Red]\-#,##0\ "$"
+P;P#,##0.00\ "$";;\-#,##0.00\ "$"
+P;P#,##0.00\ "$";;[Red]\-#,##0.00\ "$"
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pdd/mm/yyyy
+P;Pdd/\ mmm\ yy
+P;Pdd/\ mmm
+P;Pmmm\ yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Phh:mm
+P;Phh:mm:ss
+P;Pdd/mm/yyyy\ hh:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_-* #,##0\ "$"_-;;\-* #,##0\ "$"_-;;_-* "-"\ "$"_-;;_-@_-
+P;P_-* #,##0_-;;\-* #,##0_-;;_-* "-"_-;;_-@_-
+P;P_-* #,##0.00\ "$"_-;;\-* #,##0.00\ "$"_-;;_-* "-"??\ "$"_-;;_-@_-
+P;P_-* #,##0.00_-;;\-* #,##0.00_-;;_-* "-"??_-;;_-@_-
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;ECalibri;M220;L9
+P;ECalibri w3.asset.model.mdx.impl.std.StdMDXLightSerializer;M360;L55
+P;ECalibri;M300;SB;L55
+P;ECalibri;M260;SB;L55
+P;ECalibri;M220;SB;L55
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ESegoe UI;M200;L9
+F;P0;DG0G8;M286
+B;Y13;X6;D0 0 12 5
+O;D;V0;K47;G100 0.001
+F;W2 2 14
+C;Y1;X1;K"ID"
+C;X2;K"field"
+C;X3;K"slk"
+C;X4;K"type"
+C;X5;K"minVal"
+C;X6;K"maxVal"
+C;Y2;X1;K"ccid"
+C;X2;K"cliffID"
+C;X3;K"Cliff"
+C;X4;K"tilecode"
+C;Y3;X1;K"cmod"
+C;X2;K"cliffModelDir"
+C;X3;K"Cliff"
+C;X4;K"string"
+C;Y4;X1;K"cram"
+C;X2;K"rampModelDir"
+C;X3;K"Cliff"
+C;X4;K"string"
+C;Y5;X1;K"ctxd"
+C;X2;K"texDir"
+C;X3;K"Cliff"
+C;X4;K"string"
+C;Y6;X1;K"ctxf"
+C;X2;K"texFile"
+C;X3;K"Cliff"
+C;X4;K"string"
+C;Y7;X1;K"cnam"
+C;X2;K"name"
+C;X3;K"Cliff"
+C;X4;K"string"
+C;Y8;X1;K"cgrt"
+C;X2;K"groundTile"
+C;X3;K"Cliff"
+C;X4;K"tilecode"
+C;Y9;X1;K"cupt"
+C;X2;K"upperTile"
+C;X3;K"Cliff"
+C;X4;K"tilecode"
+C;Y10;X1;K"ccla"
+C;X2;K"cliffClass"
+C;X3;K"Cliff"
+C;X4;K"string"
+C;Y11;X1;K"coid"
+C;X2;K"oldID"
+C;X3;K"Cliff"
+C;X4;K"int"
+C;Y12;X1;K"cver"
+C;X2;K"version"
+C;X3;K"Cliff"
+C;X4;K"int"
+C;Y13;X1;K"cbet"
+C;X2;K"InBeta"
+C;X3;K"Cliff"
+C;X4;K"int"
+E

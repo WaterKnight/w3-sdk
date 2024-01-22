@@ -1,0 +1,127 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P#,##0\ "$";;\-#,##0\ "$"
+P;P#,##0\ "$";;[Red]\-#,##0\ "$"
+P;P#,##0.00\ "$";;\-#,##0.00\ "$"
+P;P#,##0.00\ "$";;[Red]\-#,##0.00\ "$"
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pdd/mm/yyyy
+P;Pdd/\ mmm\ yy
+P;Pdd/\ mmm
+P;Pmmm\ yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Phh:mm
+P;Phh:mm:ss
+P;Pdd/mm/yyyy\ hh:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_-* #,##0\ "$"_-;;\-* #,##0\ "$"_-;;_-* "-"\ "$"_-;;_-@_-
+P;P_-* #,##0_-;;\-* #,##0_-;;_-* "-"_-;;_-@_-
+P;P_-* #,##0.00\ "$"_-;;\-* #,##0.00\ "$"_-;;_-* "-"??\ "$"_-;;_-@_-
+P;P_-* #,##0.00_-;;\-* #,##0.00_-;;_-* "-"??_-;;_-@_-
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;ECalibri;M220;L9
+P;ECalibri w3.asset.model.mdx.impl.std.StdMDXLightSerializer;M360;L55
+P;ECalibri;M300;SB;L55
+P;ECalibri;M260;SB;L55
+P;ECalibri;M220;SB;L55
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ESegoe UI;M200;L9
+P;ECalibri;M220;SU;L31
+P;ECalibri;M220;SU;L26
+F;P0;DG0G8;M286
+B;Y15;X6;D0 0 14 5
+O;D;V0;K47;G100 0.001
+C;Y1;X1;K"ID"
+C;X2;K"field"
+C;X3;K"slk"
+C;X4;K"type"
+C;X5;K"minVal"
+C;X6;K"maxVal"
+C;Y2;X1;K"ttid"
+C;X2;K"tileID"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"tilecode"
+C;Y3;X1;K"tcli"
+C;X2;K"cliffSet"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"int"
+C;Y4;X1;K"tdir"
+C;X2;K"dir"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"string"
+C;Y5;X1;K"tfil"
+C;X2;K"file"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"string"
+C;Y6;X1;K"tcom"
+C;X2;K"comment"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"string"
+C;Y7;X1;K"tnam"
+C;X2;K"name"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"string"
+C;Y8;X1;K"tbui"
+C;X2;K"buildable"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"int"
+C;Y9;X1;K"tfoo"
+C;X2;K"footprints"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"int"
+C;Y10;X1;K"twal"
+C;X2;K"walkable"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"int"
+C;Y11;X1;K"tfly"
+C;X2;K"flyable"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"int"
+C;Y12;X1;K"tbli"
+C;X2;K"blightPri"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"int"
+C;Y13;X1;K"tcon"
+C;X2;K"convertTo"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"tilelist"
+C;Y14;X1;K"tbet"
+C;X2;K"InBeta"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"int"
+C;Y15;X1;K"tver"
+C;X2;K"version"
+C;X3;K"w3.env.terrain.terrain.model.Terrain"
+C;X4;K"int"
+E
